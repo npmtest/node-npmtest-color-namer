@@ -1,4 +1,7 @@
-# test coverage for  [color-namer (v1.1.0)](https://github.com/zeke/color-namer)  [![npm package](https://img.shields.io/npm/v/npmtest-color-namer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-color-namer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-color-namer.svg)](https://travis-ci.org/npmtest/node-npmtest-color-namer)
+# npmtest-color-namer
+
+#### basic test coverage for  [color-namer (v1.1.0)](https://github.com/zeke/color-namer)  [![npm package](https://img.shields.io/npm/v/npmtest-color-namer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-color-namer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-color-namer.svg)](https://travis-ci.org/npmtest/node-npmtest-color-namer)
+
 #### Give me a color and I'll name it.
 
 [![NPM](https://nodei.co/npm/color-namer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/color-namer)

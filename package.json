@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [color-namer (v1.1.0)](https://github.com/zeke/color-namer) [![npm package](https://img.shields.io/npm/v/npmtest-color-namer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-color-namer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-color-namer.svg)](https://travis-ci.org/npmtest/node-npmtest-color-namer)",
+    "description": "#### basic test coverage for  [color-namer (v1.1.0)](https://github.com/zeke/color-namer)  [![npm package](https://img.shields.io/npm/v/npmtest-color-namer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-color-namer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-color-namer.svg)](https://travis-ci.org/npmtest/node-npmtest-color-namer)",
     "devDependencies": {
         "color-namer": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
@@ -36,5 +36,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
